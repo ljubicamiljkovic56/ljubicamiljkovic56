@@ -13,7 +13,7 @@ My favorite programming languages/technologies/platforms are:
 •Bootstrap
 •WordPress
 
-If you don't see me commiting on any repo, it's because of three thing:
+If you don't see me commiting on any repo, it's because of three things:
 1. I'm working on WordPress web sites on InfinityFree
 2. I'm having some health problems
 3. Something else occured, life happens, I can't go against it
