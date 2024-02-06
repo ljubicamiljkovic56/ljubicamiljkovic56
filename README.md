@@ -6,7 +6,7 @@ Currently, I'm striving to become frontend developer, but I'm also interested
 in UX/UI design. 
 
 My favorite programming languages/technologies/platforms are:
-•HTML/HTML5
+•HTML/HTML5 
 •CSS/CSS3
 •JavaScript
 •jQuery
