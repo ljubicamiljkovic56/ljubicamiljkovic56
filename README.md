@@ -21,14 +21,20 @@ If you don't see me commiting on any repo, it's because of three things:
 
 My WordPress websites:
 https://paulinaaleksic.free.nf - collab with my friend, her portfolio
+
 https://rk-fansite.infinityfreeapp.com/ - A fan website dedicated to my favorite game
+
 https://world-of-recipes.infinityfreeapp.com/ - Recipes blog
+
 https://japanblog.infinityfreeapp.com/ - Blog about Japan
 
 My other links:
 https://ljubicamiljkovic56.wordpress.com/ - My WP.com portfolio
+
 https://ljubica-miljkovic56.carrd.co/ - My short portfolio on Carrd.co
+
 https://app.netlify.com/teams/ljubica-m19/sites - Some projects on Netlify
+
 https://www.linkedin.com/in/ljubica-miljkovic56/ - My LinkedIn profile
 
 <!--
