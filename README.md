@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Ljubica Miljković.
-I'm Bachelor Computer Sowftare Engineer.
+I'm Bachelor Computer Software Engineer.
 Currently, I'm striving to become frontend developer, but I'm also interested
 in UX/UI design. 
 
