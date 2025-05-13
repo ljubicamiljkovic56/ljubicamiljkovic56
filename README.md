@@ -2,8 +2,7 @@
 
 My name is Ljubica Miljković.
 I'm Bachelor Computer Software Engineer.
-Currently, I'm striving to become frontend developer, but I'm also interested
-in UX/UI design. 
+Currently, I'm striving to become frontend developer.
 
 My favorite programming languages/technologies/platforms are:
 •HTML/HTML5 
